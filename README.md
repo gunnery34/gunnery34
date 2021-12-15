@@ -1,5 +1,8 @@
-## Hey <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>, I'm Gumery <img src=https://komarev.com/ghpvc/?username=gunnery34 alt=gunnery34 />
-[![Gmail Badge](https://img.shields.io/badge/-arigho34@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anievo.id@gmail.com)](mailto:anievo.id@gmail.com) [![Github Badge](https://img.shields.io/badge/-gunnery34-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gunnery34/)](https://www.github.com/gunnery34/) [![Twitter Badge](https://img.shields.io/badge/-AniEvoID-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AniEvoID/)](https://www.twitter.com/AniEvoID/) <p align='left'>I am currently a Full-time Programmer at one of the largest start-ups in Indonesia.
+## Hey <img src='https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif' width='29' height='29'/>, I'm Gumery ![](https://komarev.com/ghpvc/?username=gunnery34)
+[![Gmail Badge](https://img.shields.io/badge/-arigho34@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anievo.id@gmail.com)](mailto:anievo.id@gmail.com) [![Github Badge](https://img.shields.io/badge/-gunnery34-grey?style=flat&logo=github&logoColor=white&link=https://github.com/gunnery34/)](https://www.github.com/gunnery34/) [![Twitter Badge](https://img.shields.io/badge/-AniEvoID-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/AniEvoID/)](https://www.twitter.com/AniEvoID/)
+
+<p align='left'>
+🌱 I’m currently learning **Web Development**<br/>
 
 Previously, I worked for one of the Real Estate Companies in Indonesia and learned a lot from Senior Programmers there. I always try and keep learning about new technologies because I want to know and curious about technology renewal.
 
