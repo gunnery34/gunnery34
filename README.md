@@ -9,7 +9,7 @@ I am always passionate in working on any Project that I know will definitely hel
 
 With great opportunities in technology makes me more excited in learning new things.
 
-## Some of my Github Stats
+## Some of my GitHub Stats
 
 <p align=center>
   <a href="#" title="Stats">
