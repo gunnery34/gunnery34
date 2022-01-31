@@ -12,10 +12,11 @@ With great opportunities in technology makes me more excited in learning new thi
 ## Some of my GitHub Stats
 
 <p align=center>
-  <a href="#" title="Stats">
+  <a href="javascript:;" title="Stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=gunnery34&show_icons=true&include_all_commits=true">
   </a>
-  <a href="#" title="Stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnery34&layout=compact" />
+  <a href="javascript:;" title="Stats">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnery34&layout=compact" />
   </a>
 </p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gunnery34&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
