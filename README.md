@@ -31,7 +31,7 @@ With great opportunities in technology makes me more excited in learning new thi
 </details>
 
 <details>
-  <summary>💻 Tech Stack/summary>
+  <summary>💻 Tech Stack</summary>
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -39,7 +39,7 @@ With great opportunities in technology makes me more excited in learning new thi
 </details>
 
 <details>
-  <summary>📊 GitHub Stats/summary>
+  <summary>📊 GitHub Stats</summary>
 <p align="center">
   <a href="#" title="Stats">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=gunnery34&show_icons=true&include_all_commits=true">
@@ -57,17 +57,17 @@ With great opportunities in technology makes me more excited in learning new thi
 </details>
 
 <details>
-  <summary>🏆 GitHub Trophies/summary>
+  <summary>🏆 GitHub Trophies</summary>
 ![](https://github-profile-trophy.vercel.app/?username=gunnery34&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
 </details>
 
 <details>
-  <summary>✍️ Random Dev Quote/summary>
+  <summary>✍️ Random Dev Quote</summary>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </details>
 
 <details>
-  <summary>💰 Donate to Support me/summary>
+  <summary>💰 Donate to Support me</summary>
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anievoid) 
 </details>
 
