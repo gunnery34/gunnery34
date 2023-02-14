@@ -78,7 +78,7 @@
 
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31er56s4o3r4c47cr4e66lanong4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31er56s4o3r4c47cr4e66lanong4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31er56s4o3r4c47cr4e66lanong4&cover_image=false)" />
 </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
