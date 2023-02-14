@@ -10,7 +10,7 @@
 
 
 <details>
-  <summary>Q&A</summary>
+  <summary>❓ Q&A</summary>
   <div align="center">
   
   Q | A
@@ -25,7 +25,7 @@
 
 
 <details>
-  <summary>About me</summary>
+  <summary>👨‍💻 About me</summary>
   <div align="center">
     🌱 I’m currently learning Web Development<br /><br />Previously, I worked for one of the Real Estate Companies in Indonesia and and Manufacture Companies in Indonesia. I always try and keep learning about new technologies because I want to know and curious about technology renewal.<br /><br />I am always passionate in working on any Project that I know will definitely help and impact the users of the program that I create. I also often make project simple because I want to know whether the program that I will create has a big impact in society or not.<br /><br />With great opportunities in technology makes me more excited in learning new things.
   </div>
@@ -58,13 +58,6 @@
 </p>
 </details>
 
-
-<details>
-  <summary>🏆 GitHub Trophies</summary>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=gunnery34&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4" />
-  </div>
-</details>
 
 <details>
   <summary>✍️ Random Dev Quote</summary>
