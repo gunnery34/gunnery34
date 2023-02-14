@@ -66,11 +66,15 @@ With great opportunities in technology makes me more excited in learning new thi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </details>
 
-<details>
-  <summary>💰 Donate to Support me</summary>
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anievoid) 
-</details>
+<div align="center">
+  <details>
+    <summary>💰 Donate to Support me</summary>
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/anievoid) 
+  </details>
+</div>
 
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31er56s4o3r4c47cr4e66lanong4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31er56s4o3r4c47cr4e66lanong4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31er56s4o3r4c47cr4e66lanong4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31er56s4o3r4c47cr4e66lanong4&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
