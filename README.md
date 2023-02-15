@@ -44,16 +44,16 @@
   <summary>📊 GitHub Stats</summary>
 <p align="center">
   <a href="#" title="Stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=gunnery34&show_icons=true&include_all_commits=true">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=gunnery34&theme=radical&&show_icons=true&include_all_commits=true">
   </a>
   <a href="#" title="Stats">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnery34&layout=compact" />
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnery34&theme=radical&&layout=compact" />
   </a>
 </p>
 
 <p align="center">
   <a href="#" title="Stats">
-    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gunnery34" />
+    <img height=175 align="center" src="https://github-readme-streak-stats.herokuapp.com?user=gunnery34&theme=radical&" />
   </a>
 </p>
 </details>
