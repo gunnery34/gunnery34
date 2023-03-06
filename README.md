@@ -15,7 +15,7 @@
   
   Q | A
   --- | --- 
-  **Favorite Theme**  | `Dark Mode: Monokai`
+  **Favorite Theme**  | `Dark Mode: GitHub Dark Dimmed`
   **Editor**  | `Visual Studio Code`
   **Platforms I develop for** | `Web`
   **My Favorite Languages**  | `PHP, JS, Go, Dart`
