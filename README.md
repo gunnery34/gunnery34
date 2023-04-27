@@ -1,12 +1,6 @@
 <p align="center">
   <h1 align="center"> Hey <img src="https://github.com/elhakimyasya/elhakimyasya/blob/master/assets/Hi.gif" width="29" height="29" />, I'm Gumery <img src="https://komarev.com/ghpvc/?username=gunnery34&label=Visitors+Count&color=brightgreen" /> </h1>
 </p>
-<p align="center">
-  <a href="https://facebook.com/anievo.idn/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"></a>
-  <a href="https://instagram.com/anievo.id/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-  <a href="https://pinterest.com/anievoid/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white"></a>
-  <a href="https://twitter.com/AniEvoID/"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"></a>
-</p>
 
 
 <details>
