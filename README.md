@@ -35,8 +35,8 @@ Got an idea or just want to chat about code? Feel free to reach out 👋
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gunnery34&theme=radical&show_icons=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunnery34&theme=radical&layout=compact" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gunnery34&theme=radical" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gunnery34&theme=radical" />
 </p>
 
 <p align="center">
